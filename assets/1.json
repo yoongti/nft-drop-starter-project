@@ -1,0 +1,19 @@
+{
+    "name": "Elon Musk' Quote",
+    "symbol": "QQ",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5TiG8bojv6aPW6ZtW2sgLzRoAELbbduS7SKpY527FNkJ",
+          "share": 100
+        }
+      ]
+    }
+  }
